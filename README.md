@@ -1,7 +1,7 @@
 # RCOS-Fall25
 Name: Chris Ding
 
-![Chris Ding](Rocs.jpg)
+![Chris Ding](Rocs.png)
 
 Graduation Year: 2026
 
