@@ -1,2 +1,8 @@
 # RCOS-Fall25
- Assignment 1 for ROCS
+Name: Chris Ding
+
+![Chris Ding](Rocs.jpg)
+
+Graduation Year: 2026
+
+Project Sub-area: Financial Sentiment Ananlyzer benchmark
